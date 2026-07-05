@@ -8,6 +8,23 @@
 - Room join menu and matchmaking via Photon;
 - Optimized state transfer for minimal network latency
 
+## How to play
+
+### Objective
+Destroy other players
+
+### Controls
+- **WASD** — move
+- **Space** — jump
+- **Shift** — run
+- **RMB** — shoot
+- **R** — reload
+
+### Gameplay
+1. Create a room or join an existing one.
+2. After the map loads, a character will appear.
+3. Use the flare gun to eliminate opponents.
+4. The player with the most kills wins.
 
 ## Technologies
 - Unity 6
