@@ -1,12 +1,12 @@
 # Multiplayer shooter with good graphics on Unity and network framework Photon Pun 
 
 ## What has been implemented
-• Weapon and shooting system with network hit synchronization;
-• Character health, damage, and respawn system;
-• Synchronization of player positions, animations, and rotations;
-• HUD interface with health and stamina;
-• Room join menu and matchmaking via Photon;
-• Optimized state transfer for minimal network latency
+- Weapon and shooting system with network hit synchronization;
+- Character health, damage, and respawn system;
+- Synchronization of player positions, animations, and rotations;
+- HUD interface with health and stamina;
+- Room join menu and matchmaking via Photon;
+- Optimized state transfer for minimal network latency
 
 
 ## Technologies
