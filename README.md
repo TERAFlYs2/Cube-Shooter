@@ -54,7 +54,8 @@ Main menu
 Session search menu
 
 
-<img width="1280" height="512" alt="photo_2025-07-03_12-29-56" src="https://github.com/user-attachments/assets/d3ad48f0-adbf-4d66-ab65-602344562718" />
+<img width="1280" height="512" alt="photo_2025-
+07-03_12-29-56" src="https://github.com/user-attachments/assets/d3ad48f0-adbf-4d66-ab65-602344562718" />
 
 Demonstration of the scene and interface of the health and stamina hood
 
@@ -67,5 +68,11 @@ Demonstration of a shot and explosion from a bazooka, and damage to the player
 <img width="1280" height="526" alt="photo_2025-07-03_12-30-10" src="https://github.com/user-attachments/assets/7865ed2d-bc39-4bd8-8591-c0761edc7544" />
 
 A frame of a flying projectile and correct processing of the physics of fast projectiles and synchronization
+
+
+## Video demonstration
+
+https://drive.google.com/drive/folders/1wO48FAtIYbDhtdgvaGRRWf-7AJDCAuCf?usp=sharing
+
 
 
