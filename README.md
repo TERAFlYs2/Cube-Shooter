@@ -1,7 +1,7 @@
 # Multiplayer shooter with good graphics on Unity and network framework Photon Pun 
 
 ## About the project
-This is a session-based shooter developed in Unity using Photon Pun. Players can create their own session or join an existing one, navigate a small map with a custom physics controller, use power-ups, and fire a rocket launcher at other players.
+This is a session-based shooter developed in Unity using the Photon Pun network framework. Players can create their own session or join an existing one, navigate a small map with a custom physics controller, use power-ups, and fire a rocket launcher at other players.
 
 ## What has been implemented
 - Weapon and shooting system with network hit synchronization;
